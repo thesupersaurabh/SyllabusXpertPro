@@ -1,8 +1,9 @@
 
 
-# **SyllabusXpert - AI-based Telegram Bot for Exam Question Generation**
+# **SyllabusXpertPro - AI-based Telegram Bot for Exam Question Generation**
 
-**SyllabusXpert** is an AI-powered Telegram bot that helps students and professionals generate customized exam questions from their syllabus. Whether you're preparing for exams, revising topics, or looking for a study partner, this bot can create detailed questions that focus on **active recall**, **real-world applications**, and **concept mapping** to help you retain knowledge more effectively.
+![SyllabusXpertPro](image.png)
+**SyllabusXpertPro** is an AI-powered Telegram bot that helps students and professionals generate customized exam questions from their syllabus. Whether you're preparing for exams, revising topics, or looking for a study partner, this bot can create detailed questions that focus on **active recall**, **real-world applications**, and **concept mapping** to help you retain knowledge more effectively.
 
 ## **Features**
 - **AI-powered exam question generation** based on the syllabus you provide.
@@ -24,8 +25,8 @@
 ### 1. **Clone the Repository**
 First, clone the repository to your local machine:
 ```bash
-git clone https://github.com/thesupersaurabh/syllabusxpert.git
-cd syllabusxpert
+git clone https://github.com/thesupersaurabh/SyllabusXpertPro.git
+cd SyllabusXpertPro
 ```
 
 ### 2. **Install Dependencies**
