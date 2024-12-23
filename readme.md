@@ -45,7 +45,7 @@ TELEGRAM_TOKEN=your_telegram_bot_token
 ### 4. **Run the Bot**
 Once everything is set up, you can run the bot using the following command:
 ```bash
-python bot.py
+python telebot.py
 ```
 
 The bot will start running and will be ready to respond to user messages.
